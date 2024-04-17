@@ -15,8 +15,12 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Conference Oral Presentation"
+    url: "/#-conference-oral-presentation"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Work and Internships"
+    url: "/#-work-and-internships"
+
+  - title: "Cover Letter"
+    url: "/#-cover-letter"
+
