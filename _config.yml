@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Wenpeng Zhao (赵文鹏)"
 description              : "waiting"
-repository               : "WenpengZhao/WenpengZhao.github.io"
+repository               : "zhaowpkyrie/zhaowpkyrie.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -27,8 +27,8 @@ author:
   location         : "Suzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "Kyriezwp@foxmail.com"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=tYfXdycAAAAJ&hl=zh-CN"
+  email            : "zhaowpkyrie@foxmail.com"
   researchgate     : "https://www.researchgate.net/profile/Wenpeng-Zhao-5"
   uri              :
   bitbucket        :
